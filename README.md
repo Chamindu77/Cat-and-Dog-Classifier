@@ -3,7 +3,7 @@
 
 This project implements a deep learning model to classify images of cats and dogs. The model is trained on a dataset containing images of cats and dogs and utilizes convolutional neural networks (CNNs) for image classification.
 
-# Table of Contents
+### Table of Contents
 
 Introduction
 Dataset
@@ -13,15 +13,15 @@ Results
 Future Improvements
 References
 
-# Introduction
+### Introduction
 This project aims to build a classifier capable of distinguishing between images of cats and dogs using deep learning techniques. The model architecture includes convolutional layers followed by max-pooling, dropout, batch normalization, and fully connected layers. The dataset is preprocessed, augmented, and split into training, validation, and test sets to train and evaluate the model.
 
-# Dataset
+### Dataset
 The dataset used for this project consists of images of cats and dogs obtained from Kaggle. The dataset contains separate directories for training and testing, with a total of [insert number] images.
 
 - Dataset: Cats and Dogs Dataset
 
-# Installation
+### Installation
 To run this project, you need to have Python installed along with the following libraries:
 
 - numpy
@@ -31,9 +31,9 @@ To run this project, you need to have Python installed along with the following 
 - opendatasets
 - opencv-python
 
-### You can install these dependencies using pip: pip install numpy pandas matplotlib tensorflow opendatasets opencv-python
+You can install these dependencies using pip: pip install numpy pandas matplotlib tensorflow opendatasets opencv-python
 
-# Usage
+### Usage
 - Clone the repository: git clone https://github.com/yourusername/your-repository.git 
 - cd your-repository
 
@@ -43,7 +43,7 @@ To run this project, you need to have Python installed along with the following 
 
 - Execute the notebook/script to train and evaluate the model.
 
-## Results
+### Results
 The model achieved the following performance metrics on the test set:
 
 - Accuracy: [insert accuracy]
@@ -51,7 +51,7 @@ The model achieved the following performance metrics on the test set:
 - Recall: [insert recall]
 - Sample predictions:
 
-## Future Improvements
+### Future Improvements
 - Experiment with different architectures and hyperparameters to improve performance.
 - Collect and label more diverse data to enhance model generalization.
 - Implement transfer learning using pre-trained models for better feature extraction.
