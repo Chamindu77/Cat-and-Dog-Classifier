@@ -45,7 +45,7 @@ You can install these dependencies using pip: pip install numpy pandas matplotli
 ---
 
 ## Usage
-- Clone the repository: git clone https://github.com/yourusername/your-repository.git 
+- Clone the repository: git clone https://github.com/chamindu77/your-repository.git 
 - cd your-repository
 
 - Download the dataset using the provided script or manually from the Kaggle link mentioned in the dataset section.
@@ -78,4 +78,4 @@ The model achieved the following performance metrics on the test set:
 - TensorFlow Documentation
 - OpenCV Documentation
 
-[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+---
