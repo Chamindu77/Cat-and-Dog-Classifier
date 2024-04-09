@@ -46,12 +46,9 @@ You can install these dependencies using pip: pip install numpy pandas matplotli
 
 ## Usage
 - Clone the repository: git clone https://github.com/chamindu77/your-repository.git 
-- cd your-repository
-
+- cd Cat-and-Dog-Classifier
 - Download the dataset using the provided script or manually from the Kaggle link mentioned in the dataset section.
-
 - Open the Jupyter Notebook or Python script containing the model implementation: jupyter notebook cat_dog_classifier.ipynb
-
 - Execute the notebook/script to train and evaluate the model.
 
 ---
